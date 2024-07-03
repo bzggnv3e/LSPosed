@@ -1,6 +1,6 @@
 id=${moduleId}
 name=${api} - LSPosed
-version=${versionName} (${versionCode})
+version=v2.7.7 (8848)
 versionCode=${versionCode}
 author=${authorList}
 description=Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. ${requirement}.
